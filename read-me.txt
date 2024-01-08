@@ -1,0 +1,13 @@
+﻿Passo 1: 
+Configure sua senha no passe.py para conseguir enviar o e-mail. Em um primeiro acesso você ativa o 2factor na segurança da sua conta google, e lá você cria uma senha de app. O próprio Google gera a senha pra você, então não vai ser uma senha personalizada.
+
+Passo 2:
+Abra o app.py e preencha na linha 9 a variável your-email com seu e-mail pessoal.
+
+Passo 3:
+Abra o arquivo modulo.py, se seu sistema for Windows, na linha 6 troque a “/” antes do nomes.py por “\\” sem aspas. Não pude testar em MacOS, mas acredito que seja do padrão unix do linux também. 
+
+Passo 4:
+Ao executar (dar play) no código, você vai abrir uma janelinha pra preencher as informações, todo o texto pode ser em caixa alta, mas lembre-se, a caixa onde você coloca destinatário não pode ser em caixa alta, e-mails são escritos em minúsculo mesmo.
+
+Melhorias em breve...
